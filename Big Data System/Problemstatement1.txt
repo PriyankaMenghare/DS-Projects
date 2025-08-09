@@ -1,0 +1,60 @@
+Business Context
+The "Vehicle Dataset 2024" provides detailed information on new vehicles, including SUVs, cars, trucks, and vans. This data helps dealerships optimize pricing, manage inventory, and forecast sales, while manufacturers can conduct market research and prioritize popular features. Insurance companies can assess risk and set premiums, fleet managers can optimize vehicle selection and maintenance, and financial institutions can better manage loans and leases. Overall, this dataset enhances data-driven decision-making and operational efficiency across the automotive industry.
+
+Business Problem Understanding
+
+The Vehicle Manufacturing company is seeking assistance in understanding and improving its sales strategies. They have provided us with a comprehensive dataset containing information on customer orders. Our objective is to analyze this dataset and provide actionable insights to enhance product offerings, optimize pricing, and increase overall revenue.
+
+Your team has been appointed to take a closer look at the records of the sales dataset and analyze the patterns and trends in customer orders.
+
+a) Identify factors contributing to high-revenue orders.
+       b)Recommend strategies for improving product popularity and customer satisfaction.
+
+Dataset Overview
+For this analysis, the company is expecting your team to explore the usage of MongoDB for the storage and querying of vehicledata. The data is available in the provided sample dataset. The data dictionary can also be referred to for understanding the attributes in the dataset.
+
+The "Vehicle Dataset 2024" provides a comprehensive look at new vehicles available in the market, including SUVs, cars, trucks, and vans. This dataset contains detailed information on various attributes such as make, model, year, price, mileage, and more. With 1002 entries and 18 columns, this dataset is ideal for data science enthusiasts and professionals looking to practice data cleaning, exploratory data analysis (EDA), and predictive modeling.
+
+Link:https://www.kaggle.com/datasets/kanchana1990/vehicle-dataset-2024?resource=downloadLinks to an external site.
+
+Vehicle Dataset Schema:
+
+name           : The full name of the vehicle, including make, model, and trim.
+
+description : A brief description of the vehicle, often including key features and Selling points.
+
+make           : The manufacturer of the vehicle (e.g., Ford, Toyota, BMW).
+
+model          : The model name of the vehicle.
+
+type             : The type of the vehicle, which is "New" for all entries in this dataset.
+
+year             : The year the vehicle was manufactured.
+
+price            : The price of the vehicle in USD.
+
+engine         : Details about the engine, including type and specifications.
+
+cylinders     : The number of cylinders in the vehicle's engine
+
+Data preparation and Exploratory Data Analysis
+You are supposed to utilize appropriate data pre-processing techniques on the given data set. If required, make appropriate assumptions and make it explicitly known while using them in the query. Make appropriate selection of the attributes with sound justification for the same. The data set allows for several new combinations of attributes and attributes exclusions, or the modification of the attribute type (categorical, integer, or real) depending on the purpose of the analysis.
+
+Expected Outcomes
+You are expected to find out the answers to following questions. 
+
+Calculate the number of vehicles which are Jeeps.
+Write a query to find no of vehicles which are SUV’s
+Find the number of vehicles which have less than four doors in the entire dataset.
+Write a query to find the number of vehicles which have mileage less than 20,000. 
+Retrieve the details of make and mileage of the first vehicle.
+Find the number of vehicles bought in the year 2023.
+Find the maximum no.of doors that a car can have.
+Calculate the average price of SUV cars.
+Identify the no of vehicles with price greater than 40,000 less than 70,000.
+Calculate the no of vehicles with fuel type only hybrid (not PHEV Hybrid)
+Find the no of fuel types.
+Retrieve the details (make,model,type,year,price,mileage) of jeeps which have white as exterior_colour, Global black as interior colour.
+
+
+dataset: https://www.kaggle.com/datasets/kanchana1990/vehicle-dataset-2024?resource=download
