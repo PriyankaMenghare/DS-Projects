@@ -1,0 +1,29 @@
+Bank name, note count, month
+Bank1, 16578, may
+Bank2, 48927, may
+Bank3, 9093, may
+Bank4, 20976, may
+Bank5, 10936, may
+Bank6, 89027, may
+Bank7, 28163, may
+Bank8, 95754, may
+Bank9, 64678, may
+Bank10, 56474, may
+Bank1, 83763, June
+Bank2, 73726, June
+Bank3, 79319, June
+Bank4, 90282, June
+Bank5, 21917, June
+Bank10, 101010, June
+
+
+Bank12,,
+Bank13, , may
+Bank14, -12, may
+Bank16, 13212, may
+
+New Bank details:
+Bank11, 671862, May
+Bank11, 3893, June
+Bank15, -12, June
+Bank16, 41211,   june

@@ -1,0 +1,52 @@
+May month details:
+Bank1, 16578
+Bank2, 48927
+Bank3, 9093
+Bank4, 20976
+Bank5, 10936
+Bank6, 89027
+Bank7, 28163
+Bank8, 95754
+Bank9, 64678
+Bank10, 56474
+Bank16, 13212
+
+June month details:
+Bank1, 83763
+Bank2, 73726
+Bank3, 79319
+Bank4, 90282
+Bank5, 21917
+Bank10, 101010
+
+Total Rs 2000 note count for May & June month: '453818' & '450017'
+
+Added new bank details:
+Bank11, 671862, May
+Bank11, 3893, June
+Bank16, 41211, June
+Maximum notes deposited in Bank11: 671862 for May month...
+Maximum notes deposited in Bank10: 101010 for June month...
+
+Total amount that collected so far in all the banks: 'Rs 3241602000'
+May month details:
+Bank6, 89027
+Bank9, 64678
+Bank7, 28163
+Bank2, 48927
+Bank10, 56474
+Bank1, 16578
+Bank16, 13212
+Bank4, 20976
+Bank3, 9093
+Bank5, 10936
+
+June month details:
+Bank10, 101010
+Bank4, 90282
+Bank1, 83763
+Bank2, 73726
+Bank5, 21917
+Bank3, 79319
+Bank11, 3893
+Bank16, 41211
